@@ -1012,6 +1012,9 @@
     right: 0;
     border-top: 1px solid #a3a3a3;
 }
+audio { 
+    display:none;
+ }
 
 .footer__heading {
     text-transform: uppercase;
